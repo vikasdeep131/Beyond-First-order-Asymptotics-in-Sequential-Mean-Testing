@@ -1,4 +1,4 @@
-# CLT Experiments for KL∞ and Stopping Times
+# CLT Experiments for KL_inf and Stopping Times
 
 Simulation code for the central limit theorem (CLT) of the empirical
 KL-divergence infimum and of the associated sequential stopping time
